@@ -1,2 +1,1 @@
-# JavaScript
-java alura
+# alura-armazenando-na-web
