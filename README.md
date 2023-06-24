@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# web storage / armazenando na web
